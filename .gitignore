@@ -1,0 +1,16 @@
+# Data directories (Keep data local, don't push to GitHub)
+data/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python environment and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+env/
